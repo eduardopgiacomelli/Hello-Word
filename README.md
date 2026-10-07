@@ -1,2 +1,2 @@
-# Hello Word
-Firs repository 
+# Hello World
+First repository 
